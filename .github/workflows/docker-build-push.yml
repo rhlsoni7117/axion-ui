@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: devopsinsiders/axion-ui
+  DOCKER_IMAGE: rhlsonidockerhub1992/axion-ui-repo
 
 jobs:
   build-and-push:
